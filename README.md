@@ -7,27 +7,41 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Chen Geng**, a passionate and experienced Java Software Engineer with over 6 years in the industry. Based in Changsha, I have a strong background in developing robust and scalable applications using Java and various modern frameworks.
+Hello! I'm **Chen Geng**, a passionate and experienced Java Software Engineer with over 7 years in the industry. Based in Changsha, I have a strong background in developing robust and scalable applications using Java and various modern frameworks.
 
 My expertise spans microservices, full-stack development, database optimization, and much more. I'm always eager to learn and explore new technologies, and I enjoy solving complex problems and working collaboratively with my team.
+
+你好！我是陈赓，是一个充满热情且经验丰富的Java软件开发工程师，拥有超过7年的行业经验，目前定居在长沙，擅长使用Java和各种现代框架开发稳定且可扩展的应用程序。
 
 ### Who Am I?
 
 🌐 **Full-Stack Developer**: With a strong background in Java and a knack for frontend development, I build end-to-end solutions.
 
+我拥有扎实的Java基础和出色的前端开发能力，能够构建端到端的解决方案。
+
 🔧 **Tech Enthusiast**: I'm always eager to learn and implement new technologies that can enhance my projects.
+
+保持渴望学习和应用新的技术来提升我的项目
 
 🚀 **Performance Optimizer**: I have a keen eye for improving system performance and ensuring smooth operations.
 
+我对提升系统性能和确保平稳运行有着敏锐的洞察力
+
 📈 **Data-Driven**: My experience with data processing and analysis helps me make informed decisions in my projects.
+
+我的数据处理和分析经验有助于我在项目中做出明智的决策
 
 🌟 **Open-Source Contributor**: I believe in the power of collaboration and regularly contribute to open-source communities.
 
+我相信合作的力量，并经常为开源社区做出贡献
+
 Whether it's developing a high-performance backend system or crafting an intuitive frontend interface, I bring a blend of technical expertise and creative problem-solving to every project.
+
+无论是开发高性能的后端系统还是设计直观的前端界面，我都会将技术专长和创造性的问题解决能力应用到每一个项目中
 
 ### Key Skills
 
-- **Languages & Frameworks**: Java, Spring, SpringBoot, SpringCloud, Mybatis, Vue.js, JavaScript
+- **Languages & Frameworks**: Java,Python3 Spring, SpringBoot, SpringCloud, Mybatis, Vue.js, JavaScript
 - **Database Technologies**: MySQL, Redis
 - **Microservices**: SpringCloud Nacos, Feign, Gateway
 - **DevOps**: Linux, Docker, Kubernetes
